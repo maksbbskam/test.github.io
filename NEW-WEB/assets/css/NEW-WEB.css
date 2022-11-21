@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomolhari&display=swap');
+
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgba(15, 56, 69, 1);
+    height: 2048px ;
+    padding: 0px;
+}
+.header{
+    height: 110px;
+}
+
+img.main-img{
+    height: 914px;
+    width:100% ;
+    display: block;
+    margin-right: 0px;
+    padding: 0px ;
+
+
+}
+ 
+
+.one-img{
+    margin-top: 24px;
+    margin-right: 307px;
+    margin-left: 672px;
+    box-shadow:  9px 10px 15px rgb(23, 23, 23) ;
+    position: absolute ;
+    height: 284px;
+    width: 461px;
+}
+
+.two-img{
+    margin-top: 507px;
+    margin-right: auto;
+    margin-left: 883px;
+    box-shadow:  9px 10px 15px rgb(23, 23, 23) ;
+    position: absolute ;
+    height: 316px;
+    width: 500px;
+}
+
+.three-img{
+    margin-top: 252px;
+    margin-right: auto;
+    margin-left: 740px;
+    box-shadow:  9px 10px 15px rgb(23, 23, 23) ;
+    position: absolute ;
+    height: 358px;
+    width: 489px;
+}
+
+p.text-two{
+    margin-top: 290px;
+    height: 383px;
+    width: 572px;
+    font-size: 40px;
+    font-family: "Secular One";
+    color: rgba(199, 242, 255, 1);
+}
+
+
+h1.text-one{
+    margin-top: 159px;
+    color: white;
+    font-size: 94px;
+    font-family: "Anton";
+}
+
+.text-three{
+    margin-left: 91px;
+    margin-top: 44px;
+    color: white;
+    width: 600px;
+    font-size: 94px;
+    font-family: "Anton";
+    transform: rotateZ(-2deg);
+}
+ 
+a.Sign-in{
+    font-size: 32px;
+    margin-top: 30px;
+    margin-left: 10px; 
+    color: rgba(108, 232, 77, 1);
+    font-family: 'Jomolhari', serif;
+    text-decoration: none;
+}
+
+a.Sign-un{
+    font-size: 28px;
+    margin-top: 34px;
+    color: rgba(248, 239, 210, 1);
+    font-family: 'Jomolhari', serif;
+    text-decoration: none;
+}
+
+.log-in{
+    float: right;
+    width: 220px;
+    margin-right: 57px;
+    margin-top: 30px;
+}
+
+.text-four{
+    margin-left: 91px;
+    height: 285px;
+    width: 1247px;
+    font-size: 40px;
+    font-family: "Secular One";
+    color: rgba(199, 242, 255, 1);
+    transform: rotateZ(-2deg);
+}
+
+.four-img{
+    margin-top: 60px;
+    margin-left: 72px;
+    height: 340px ;
+    width: 642px; 
+    box-shadow:  9px 10px 15px rgb(23, 23, 23) ;
+    transform: rotateZ(2deg);
+}
+.five-img{
+    margin-top: 80px;
+    margin-left: 769px;
+    height: 326px ;
+    width: 621px; 
+    box-shadow:  9px 10px 15px rgb(23, 23, 23) ;
+    transform: rotateZ(2deg);
+}
+
+.six-img{
+    margin-top: 1px;
+    margin-left: 400px;
+    height: 308px ;
+    width: 562px; 
+    box-shadow:  9px 10px 15px rgb(23, 23, 23) ;
+    transform: rotateZ(-1deg);
+}
+ 
+.logo{
+    width: 167px ;
+    height: 65px ;
+    margin-top: 23px;
+    margin-left: 34px;
+}
+
+.five-img, .four-img, .six-img{
+    position: absolute;
+}
+
+.text-one, .text-two{    
+    position: absolute;
+    margin-left: 59px;
+}
